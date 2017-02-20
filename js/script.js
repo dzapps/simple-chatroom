@@ -1,3 +1,5 @@
+firebase.initializeApp(config);
+
 var fbRef = firebase.database();
 
 $(document).ready(function() {
